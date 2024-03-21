@@ -1,10 +1,8 @@
 ---
 layout: default
-redirect_from:
-    - /shop/
 ---
 
-## Welcome to another page
+## Welcome to SHOP page
 
 _yay_
 
