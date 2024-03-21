@@ -1,5 +1,8 @@
-title: Viks Pages
-description: Viks Pages on GitHub.
+title: Viks
+description: My Pages on GitHub.
 show_downloads: false
+show_on_github: false
+show_maintained: false
+show_hosted: false
 google_analytics:
 theme: jekyll-theme-midnight

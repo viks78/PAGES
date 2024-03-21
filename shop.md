@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to Shop page
+## Welcome to another page
 
 _yay_
 
