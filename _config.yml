@@ -7,5 +7,7 @@ show_hosted: false
 google_analytics:
 theme: jekyll-theme-midnight
 plugins:
-   - jekyll-redirect-from
-   
+    - jekyll-redirect-from
+whitelist:
+    - jekyll-redirect-from
+    
