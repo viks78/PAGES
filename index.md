@@ -2,8 +2,8 @@
 layout: default
 ---
 
+[Another page](./another-page.html).
 
-[Link to another page](./another-page.html).
-[Link to Shop page](./shop.md).
-[Link to About page](./about).
+[Shop](./shop).
 
+[About](./about).
