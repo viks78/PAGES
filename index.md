@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Another page](./another-page.html).
+[Shop](./shop)
 
-[Shop](./shop).
+[About](./about)
 
-[About](./about).
+[Another page](./another-page)
