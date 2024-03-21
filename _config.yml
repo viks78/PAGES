@@ -6,6 +6,3 @@ show_maintained: false
 show_hosted: false
 google_analytics:
 theme: jekyll-theme-midnight
-whitelist:
-    - jekyll-redirect-from
-    
